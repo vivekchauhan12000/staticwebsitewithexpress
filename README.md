@@ -1,2 +1,2 @@
 # staticwebsitewithexpress
-The website is static website which uses express as backend to be hosted.
+In index.js   express.js is use to create a backend for a static wesite only add public folder to your project file and add all html,css,js,etc in it.
